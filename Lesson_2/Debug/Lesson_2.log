@@ -1,0 +1,9 @@
+﻿  Lesson_2.cpp
+C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Lesson_2.cpp(18,7): warning C4101: c1: неиспользованная локальная переменная
+C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Lesson_2.cpp(23,7): warning C4101: b: неиспользованная локальная переменная
+C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Lesson_2.cpp(21,8): warning C4101: f: неиспользованная локальная переменная
+C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Lesson_2.cpp(19,7): warning C4101: l: неиспользованная локальная переменная
+C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Lesson_2.cpp(17,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Lesson_2.cpp(20,12): warning C4101: ll: неиспользованная локальная переменная
+C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Lesson_2.cpp(22,9): warning C4101: d: неиспользованная локальная переменная
+  Lesson_2.vcxproj -> C:\Users\1\Desktop\GB_hw\C++\Lesson_2\Lesson_2\Debug\Lesson_2.exe
