@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -22,6 +22,7 @@ int main() {
 
 
 	// Задание 3
+	
 
 	xosymbols xoarr[6];
 
